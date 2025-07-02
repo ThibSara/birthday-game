@@ -104,7 +104,8 @@ export default function Home() {
           >
             <h2 className="text-2xl font-semibold mb-4">🤔 Le Rébus</h2>
             <p className="text-xl mb-6">
-              😀 + 👀&nbsp;&nbsp;&nbsp;&nbsp;🫏 + 🏋️‍♂️ + 🪱 + 🦌 + 👣
+              😀 + 👀&nbsp;&nbsp;&nbsp;&nbsp;🫏 + 🏋️‍♂️ + 🪱 +
+              🦌&nbsp;&nbsp;&nbsp;&nbsp;👣
             </p>
             {!isCorrect ? (
               <>
